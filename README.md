@@ -26,3 +26,4 @@ and run the environment:
 Type `$ python3 src/models.py` on the console.
 
 Open he file `diagram.png` to check out your URML diagram!
+# instagram-data-modeling
