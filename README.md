@@ -1,5 +1,4 @@
-# Create the database model for Instagram
-
+Instagram Clone Data-Model
 Inside he `src/models.py` file you will find have a couple of classes describing an example database.
 
 Here is a 4min video explaining what UML is: [https://www.youtube.com/watch?v=UI6lqHOVHic](https://www.youtube.com/watch?v=UI6lqHOVHic)
